@@ -52,79 +52,8 @@
     color: rgb(75, 75, 211);
 
 }
-.skillimg{
-    background-image: url("Real-Time Tracking in Logistics _ Unlocking the Power of Smart Contracts.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-.ho{
-    display: flex;
-    padding: 10px;
-    gap: 20px;
-    justify-content: center;
-    margin-top: 45px;
-}
-.hov{
-    text-align: center;
-    background-color:rgb(201, 162, 238);
-    width: 240px;
-    height: 240px;
 
 
-}
-.hov:hover{
-    background-color: white;
-    width: 240px;
-    height: 270px;
-    color: black;
-    transition: .5s;
-}
-.hov1{
-    text-align: center;
-    background-color:rgb(210, 179, 238);
-    width: 240px;
-    height: 240px;
-
-
-}
-.hov1:hover{
-    background-color: white;
-    width: 240px;
-    height: 270px;
-    color: black;
-    transition: .5s;
-}
-.hov2{
-    text-align: center;
-    background-color:rgb(205, 167, 241);
-    width: 240px;
-    height: 240px;
-
-
-}
-.hov2:hover{
-    background-color: white;
-    width: 240px;
-    height: 270px;
-    color: black;
-    transition: .5s;
-}
-.hov3{
-    text-align: center;
-    background-color:rgb(209, 168, 248);
-    width: 240px;
-    height: 240px;
-
-
-}
-.hov3:hover{
-    background-color: white;
-    width: 240px;
-    height: 270px;
-    color: black;
-    transition: .5s;
-}
 .contact-map{
           background-size: cover;
           background-repeat: no-repeat;
