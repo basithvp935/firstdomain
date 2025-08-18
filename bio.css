@@ -1,0 +1,135 @@
+.id1{
+    display: flex;
+    background-color: rgb(11, 11, 56);
+    
+}
+.id2{
+    
+    font-size: 30px;
+    color: white;
+}
+.id4{
+    display: flex;
+    gap: 20px;
+    
+    list-style: none;
+    
+    
+}
+.id4 a{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+}
+.col-4 img{
+    box-shadow: 5px 5px 16px;
+}
+.basi1{ 
+    display: flex;
+    margin-top: 10%;
+    
+}
+.basi1 h1{
+    font-size: 15px;
+    gap: 12px;
+}
+.basi h2:hover{
+    color: rgb(78, 78, 221);
+    font-size: 40px;
+}
+.col-6 h6:hover{
+    font-size: 100px;
+    color: rgb(206, 87, 87);
+
+}
+.col-6 h3:hover{
+    color: rgb(89, 89, 201);
+}
+.resume h2:hover{
+    color:rgb(216, 48, 48);
+}
+.row h1:hover{
+    color: rgb(75, 75, 211);
+
+}
+.skillimg{
+    background-image: url("Real-Time Tracking in Logistics _ Unlocking the Power of Smart Contracts.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ho{
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 45px;
+}
+.hov{
+    text-align: center;
+    background-color:rgb(201, 162, 238);
+    width: 240px;
+    height: 240px;
+
+
+}
+.hov:hover{
+    background-color: white;
+    width: 240px;
+    height: 270px;
+    color: black;
+    transition: .5s;
+}
+.hov1{
+    text-align: center;
+    background-color:rgb(210, 179, 238);
+    width: 240px;
+    height: 240px;
+
+
+}
+.hov1:hover{
+    background-color: white;
+    width: 240px;
+    height: 270px;
+    color: black;
+    transition: .5s;
+}
+.hov2{
+    text-align: center;
+    background-color:rgb(205, 167, 241);
+    width: 240px;
+    height: 240px;
+
+
+}
+.hov2:hover{
+    background-color: white;
+    width: 240px;
+    height: 270px;
+    color: black;
+    transition: .5s;
+}
+.hov3{
+    text-align: center;
+    background-color:rgb(209, 168, 248);
+    width: 240px;
+    height: 240px;
+
+
+}
+.hov3:hover{
+    background-color: white;
+    width: 240px;
+    height: 270px;
+    color: black;
+    transition: .5s;
+}
+.contact-map{
+          background-size: cover;
+          background-repeat: no-repeat;
+          width: 100%;
+          height: 450px;
+        }
+  
+
