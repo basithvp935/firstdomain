@@ -33,24 +33,40 @@
     font-size: 15px;
     gap: 12px;
 }
-.basi h2:hover{
-    color: rgb(78, 78, 221);
-    font-size: 40px;
-}
-.col-6 h6:hover{
-    font-size: 100px;
-    color: rgb(206, 87, 87);
 
-}
-.col-6 h3:hover{
-    color: rgb(89, 89, 201);
-}
-.resume h2:hover{
-    color:rgb(216, 48, 48);
-}
-.row h1:hover{
-    color: rgb(75, 75, 211);
 
+.skill2{
+   margin-top: 170px;
+   margin-bottom: 170px;
+  }
+  .sk2{
+    color:white;
+}
+.skill-card {
+transition: all 0.3s ease-in-out;
+background: #0d0d0d;
+padding: 30px;
+}
+.skill-card:hover {
+transform: translateY(-10px) scale(1.03);
+box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+transition: 0.9s;
+}
+
+.skill-icon {
+transition: transform 0.3s, color 0.3s;
+}
+.skill-card:hover .skill-icon {
+transform: scale(1.2) rotate(-5deg);
+color: #101010; /* highlight effect */
+}
+
+.progress-bar {
+transition: width 1s ease-in-out;
+}
+.skill-card:hover .progress-bar {
+width: 100% !important; /* fills up smoothly on hover */
+transition: 2s;
 }
 
 
